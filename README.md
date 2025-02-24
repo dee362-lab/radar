@@ -29,3 +29,6 @@ A radar/sonar-based object detection system that uses ultrasonic sensors to meas
 2. Upload the provided code using Arduino IDE.  
 3. Open **Processing 3**, run the `radar_visualization.pde` script.  
 4. Observe real-time radar scanning on the Processing GUI.  
+
+## 📜 License  
+This project is open-source under the [MIT License](LICENSE). 
