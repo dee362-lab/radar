@@ -15,7 +15,10 @@ A radar/sonar-based object detection system that uses ultrasonic sensors to meas
 - **Microcontroller:** Arduino  
 - **Sensors:** Ultrasonic Sensors  
 - **Actuators:** Servo Motor  
-- **Software:** Arduino IDE  
+
+## 🖥️ Software Requirements  
+- **Arduino IDE** – For programming the microcontroller  
+- **Processing 3** – For graphical radar visualization  
 
 ## 🚀 Features  
 ✅ Scans surroundings and detects object distances  
@@ -24,4 +27,5 @@ A radar/sonar-based object detection system that uses ultrasonic sensors to meas
 ## 🔧 Setup & Installation  
 1. Connect ultrasonic sensors and servo motor to the Arduino.  
 2. Upload the provided code using Arduino IDE.  
-3. Observe real-time distance measurements.  
+3. Open **Processing 3**, run the `radar_visualization.pde` script.  
+4. Observe real-time radar scanning on the Processing GUI.  
